@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:0 type="stream" channelld ="2219" group-title="IT: MEDIASET", Canale 5
 #EXTVLCOPT:http-user-agent=Mozilla
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
