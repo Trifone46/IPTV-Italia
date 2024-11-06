@@ -1,5 +1,5 @@
 #EXTINF:0 type="stream" channelld ="2219" group-title="IT: MEDIASET", Canale 5
-#EXTVLCOPT:http-user-agent=HbbTV
+#EXTVLCOPT:http-user-agent=Mozilla
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Italia 1" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://i.imgur.com/oCiOxBG.png" group-title="IT: MEDIASET", Italia 1
 #EXTVLCOPT:http-user-agent=Mozilla
@@ -25,6 +25,9 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Top Crime" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://i.imgur.com/RFIwv9O.png" group-title="IT: MEDIASET", Top Crime
 #EXTVLCOPT:http-user-agent=Mozilla
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="canaletv" tvg-name="#GFVIPPARTY" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://easysite.one.png" group-title="IT: MEDIASET", DIRETTA #GFVIPPARTY
+#EXTVLCOPT:http-user-agent=Mozilla
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Italia 2" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPTgv8iTjI1N6JASit2_PoEDBQubtE0JupJY2R4q0TdQ&s.png" group-title="IT: MEDIASET", Italia 2
 #EXTVLCOPT:http-user-agent=Mozilla
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
@@ -56,6 +59,14 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=16
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=16
 EXTINF:-1 tvg-id="canaletv" tvg-name="Kiss Kiss Italia" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfPW1wD0sorKRAM6rkJLRVPf8pG3hElUKfJ4BuAwAlAw&s.png" group-title="IT: KISS KISS ITALIA", Kiss Kiss Italia
 https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
+EXTINF:-1 tvg-id="canaletv" tvg-name="Kiss Kiss Italia" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfPW1wD0sorKRAM6rkJLRVPf8pG3hElUKfJ4BuAwAlAw&s.png" group-title="IT: RADIO", Kiss Kiss Italia
+https://ice06.fluidstream.net/KKItalia.aac?FLID=6
+#EXTINF:-1 tvg-id="canaletv" tvg-name="Radio 101 Italia" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvRZeHFqzDJ3KCmsRyaiI5MYHKE77SqAv-L5aH7veN0g&s.png" group-title="IT: RADIO", Radio 101 Italia
+https://icy.unitedradio.it/R101MadeInItaly.mp3
+#EXTINF:-1 tvg-id="canaletv" tvg-name="Bella" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFNydnr9yvP7JSPJQLTYi-t03FzkFZpompwg&s.png" group-title="IT: RADIO", Bella
+http://server.bellaradio.it:8090/bellaradio.ogg
+#EXTINF:-1 tvg-id="canaletv" tvg-name="Radio Italia" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://i.imgur.com/4VCEJuJ.png" group-title="IT: RADIO", Radio Italia
+https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="NOVE" tvg-country="IT" tvg-language="Italiano" #EXTINF:-1 tvg-id="canaletv" tvg-name="NOVE" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/nove.png" group-title="IT: DISCOVERY", NOVE
 https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Giallo" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/giallo.png" group-title="IT: DISCOVERY", Giallo
