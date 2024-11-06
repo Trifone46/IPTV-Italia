@@ -1,5 +1,6 @@
 #EXTINF:0 type="stream" channelld ="2219" group-title="IT: MEDIASET", Canale 5
 #EXTVLCOPT:http-user-agent=Mozilla
-https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8#EXTINF:-1 tvg-id="canaletv" tvg-name="Italia 1" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://i.imgur.com/oCiOxBG.png" group-title="IT: MEDIASET", Italia 1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="canaletv" tvg-name="Italia 1" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://i.imgur.com/oCiOxBG.png" group-title="IT: MEDIASET", Italia 1
 #EXTVLCOPT:http-user-agent=Mozilla
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
