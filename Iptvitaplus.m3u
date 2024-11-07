@@ -12,7 +12,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="LA 5" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://i.imgur.com/UNyJaho.png" group-title="IT: MEDIASET", La 5
-#EXTVLCOPT:http-user-agent=Mozilla
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Mediaset 20" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJjmaIe3d-OJHGkvMgp-R6bH82uV5I1hZbNUD8gWjOkI4gLNSN00pIioU&usqp=CAE&s.png" group-title="IT: MEDIASET", Mediaset 20
 #EXTVLCOPT:http-user-agent=Mozilla
