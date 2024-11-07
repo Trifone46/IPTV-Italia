@@ -55,9 +55,9 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=16
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Rai 4 HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4-lbz08s5luj9v.png" group-title="IT: XXXX RAI", Rai 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=16
-EXTINF:-1 tvg-id="canaletv" tvg-name="Kiss Kiss Italia" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfPW1wD0sorKRAM6rkJLRVPf8pG3hElUKfJ4BuAwAlAw&s.png" group-title="IT: KISS KISS ITALIA", Kiss Kiss Italia
+#EXTINF:-1 tvg-id="canaletv" tvg-name="Kiss Kiss Italia" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfPW1wD0sorKRAM6rkJLRVPf8pG3hElUKfJ4BuAwAlAw&s.png" group-title="IT: KISS KISS ITALIA", Kiss Kiss Italia
 https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
-EXTINF:-1 tvg-id="canaletv" tvg-name="Kiss Kiss Italia" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfPW1wD0sorKRAM6rkJLRVPf8pG3hElUKfJ4BuAwAlAw&s.png" group-title="IT: RADIO", Kiss Kiss Italia
+#EXTINF:-1 tvg-id="canaletv" tvg-name="Kiss Kiss Italia" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfPW1wD0sorKRAM6rkJLRVPf8pG3hElUKfJ4BuAwAlAw&s.png" group-title="IT: RADIO", Kiss Kiss Italia
 https://ice06.fluidstream.net/KKItalia.aac?FLID=6
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Radio 101 Italia" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvRZeHFqzDJ3KCmsRyaiI5MYHKE77SqAv-L5aH7veN0g&s.png" group-title="IT: RADIO", Radio 101 Italia
 https://icy.unitedradio.it/R101MadeInItaly.mp3
