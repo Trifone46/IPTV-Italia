@@ -3,4 +3,5 @@
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162834&output=16
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Rai 2 HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-2-bobi5do2jjqa.png" group-title="IT: XXXX RAI", Rai 2 HD
 #KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=16
