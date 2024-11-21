@@ -7,8 +7,6 @@ https://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u
 https://raitre3-live.akamaized.net/hls/live/2018002/raitre3/raitre3/playlist.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Rai 4 HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4-lbz08s5luj9v.png" group-title="Italy",Rai 4
 https://raiquattro3-live.akamaized.net/hls/live/2018003/raiquattro3/raiquattro3/playlist.m3u8
-#EXTINF:-1 tvg-name="Rete 4 Ⓖ" tvg-logo="https://i.imgur.com/GWx2Fkl.png" tvg-id="Rete4.it" group-title="Italy",Rete 4
-https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Canale 5 Ⓖ" tvg-logo="https://i.imgur.com/p6YdiR1.png" tvg-id="Canale5.it" group-title="Italy",Canale 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Italia 1 Ⓖ" tvg-logo="https://i.imgur.com/oCiOxBG.png" tvg-id="Italia1.it" group-title="Italy",Italia 1
@@ -59,6 +57,8 @@ https://server.bellaradio.it:1443/live/bellaradiotv/playlist.m3u8
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 tvg-name="RTL 102.5" tvg-logo="https://i.imgur.com/KdissvS.png" tvg-id="RTL1025TV.it" group-title="Italy",RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 tvg-name="Rete 4 Ⓖ" tvg-logo="https://i.imgur.com/GWx2Fkl.png" tvg-id="Rete4.it" group-title="Italy",Rete 4
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Dmax" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax-hd.png" group-title="Italy",Dmax
 https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="1 ORA FA G F" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://easysite.one.png" group-title="Italy",DIRETTA 1 ORA FA
