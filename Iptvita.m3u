@@ -57,11 +57,11 @@ https://server.bellaradio.it:1443/live/bellaradiotv/playlist.m3u8
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 tvg-name="RTL 102.5" tvg-logo="https://i.imgur.com/KdissvS.png" tvg-id="RTL1025TV.it" group-title="Italy",RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-#EXTINF:-1 tvg-name="Rete 4 Ⓖ" tvg-logo="https://i.imgur.com/GWx2Fkl.png" tvg-id="Rete4.it" group-title="Italy",Rete 4
-https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Dmax" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax-hd.png" group-title="Italy",Dmax
 https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="1 ORA FA G F" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://easysite.one.png" group-title="Italy",DIRETTA 1 ORA FA
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Radio Bruno Tv" tvg-logo="https://i.imgur.com/y4vKE83.png" group-title="Italy",Radio Bruno Tv
 https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Rete 4 Ⓖ" tvg-logo="https://i.imgur.com/GWx2Fkl.png" tvg-id="Rete4.it" group-title="Italy",Rete 4
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u
