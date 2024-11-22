@@ -7,23 +7,23 @@ https://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u
 https://raitre3-live.akamaized.net/hls/live/2018002/raitre3/raitre3/playlist.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Rai 4 HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4-lbz08s5luj9v.png" group-title="Italy",Rai 4
 https://raiquattro3-live.akamaized.net/hls/live/2018003/raiquattro3/raiquattro3/playlist.m3u8
-#EXTINF:-1 tvg-name="Canale 5 Ⓖ" tvg-logo="https://i.imgur.com/p6YdiR1.png" tvg-id="Canale5.it" group-title="Italy",Canale 5
+#EXTINF:-1 tvg-name="Canale 5" tvg-logo="https://i.imgur.com/p6YdiR1.png" tvg-id="Canale5.it" group-title="Italy",Canale 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
-#EXTINF:-1 tvg-name="Italia 1 Ⓖ" tvg-logo="https://i.imgur.com/oCiOxBG.png" tvg-id="Italia1.it" group-title="Italy",Italia 1
+#EXTINF:-1 tvg-name="Italia 1" tvg-logo="https://i.imgur.com/oCiOxBG.png" tvg-id="Italia1.it" group-title="Italy",Italia 1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Nove" tvg-logo="https://i.imgur.com/Hp723RU.png" tvg-id="Nove.it" group-title="Italy",Nove
 https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-name="Warner " tvg-logo="https://i.imgur.com/oIWFcOC.png" tvg-id="WarnerTVItaly.it" group-title="Italy",Warner
+#EXTINF:-1 tvg-name="Warner" tvg-logo="https://i.imgur.com/oIWFcOC.png" tvg-id="WarnerTVItaly.it" group-title="Italy",Warner
 https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-name="20 Mediaset Ⓖ" tvg-logo="https://i.imgur.com/It13jwX.png" tvg-id="20.it" group-title="Italy",20 Mediaset
+#EXTINF:-1 tvg-name="20 Mediaset" tvg-logo="https://i.imgur.com/It13jwX.png" tvg-id="20.it" group-title="Italy",20 Mediaset
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
-#EXTINF:-1 tvg-name="Iris Ⓖ" tvg-logo="https://i.imgur.com/Ixz1BY3.png" tvg-id="Iris.it" group-title="Italy",Iris
+#EXTINF:-1 tvg-name="Iris" tvg-logo="https://i.imgur.com/Ixz1BY3.png" tvg-id="Iris.it" group-title="Italy",Iris
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="TV8" tvg-logo="https://i.imgur.com/xvoHVOU.png" tvg-id="TV8.it" group-title="Italy",TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Kiss Kiss Italia" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfPW1wD0sorKRAM6rkJLRVPf8pG3hElUKfJ4BuAwAlAw&s.png" group-title="Italy",Kiss Kiss Italia
 https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="La 5 Ⓖ" tvg-logo="https://i.imgur.com/UNyJaho.png" tvg-id="La5.it" group-title="Italy",La 5
+#EXTINF:-1 tvg-name="La 5" tvg-logo="https://i.imgur.com/UNyJaho.png" tvg-id="La5.it" group-title="Italy",La 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Real Time" tvg-logo="https://i.imgur.com/9dcTYg1.png" tvg-id="RealTimeItaly.it" group-title="Italy",Real Time
 https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8
@@ -31,19 +31,19 @@ https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="DIRETTA G F 1" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://easysite.png" group-title="Italy",DIRETTA G F 1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/index.m3u8
-#EXTINF:-1 tvg-name="Rete 4 Ⓖ" tvg-logo="https://i.imgur.com/GWx2Fkl.png" tvg-id="Rete4.it" group-title="Italy",Rete 4
+#EXTINF:-1 tvg-name="Rete 4" tvg-logo="https://i.imgur.com/GWx2Fkl.png" tvg-id="Rete4.it" group-title="Italy",Rete 4
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
-#EXTINF:-1 tvg-name="Top Crime Ⓖ" tvg-logo="https://i.imgur.com/RFIwv9O.png" tvg-id="TopCrime.it" group-title="Italy",Top Crime
+#EXTINF:-1 tvg-name="Top Crime" tvg-logo="https://i.imgur.com/RFIwv9O.png" tvg-id="TopCrime.it" group-title="Italy",Top Crime
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
-#EXTINF:-1 tvg-name="Focus Ⓖ" tvg-logo="https://i.imgur.com/M4smqpF.png" tvg-id="Focus.it" group-title="Italy",Focus
+#EXTINF:-1 tvg-name="Focus" tvg-logo="https://i.imgur.com/M4smqpF.png" tvg-id="Focus.it" group-title="Italy",Focus
 https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
-#EXTINF:-1 tvg-name="Italia 2 Ⓖ" tvg-logo="https://i.imgur.com/nq48sjO.png" tvg-id="Italia2.it" group-title="Italy",ITALIA
+#EXTINF:-1 tvg-name="Italia 2" tvg-logo="https://i.imgur.com/nq48sjO.png" tvg-id="Italia2.it" group-title="Italy",ITALIA
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
-#EXTINF:-1 tvg-name="105 Ⓖ" tvg-logo="https://i.imgur.com/y2PdPCK.png" tvg-id="105" group-title="Italy",105
+#EXTINF:-1 tvg-name="105" tvg-logo="https://i.imgur.com/y2PdPCK.png" tvg-id="105" group-title="Italy",105
 https://live02-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Radio 101 Italia" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvRZeHFqzDJ3KCmsRyaiI5MYHKE77SqAv-L5aH7veN0g&s.png" group-title="Italy",Radio 101
 https://icy.unitedradio.it/R101MadeInItaly.mp3
-#EXTINF:-1 tvg-name="Mediaset Extra Ⓖ" tvg-logo="https://i.imgur.com/mM8lopo.png" tvg-id="MediasetExtra.it" group-title="Italy",Mediaset Extra
+#EXTINF:-1 tvg-name="Mediaset Extra" tvg-logo="https://i.imgur.com/mM8lopo.png" tvg-id="MediasetExtra.it" group-title="Italy",Mediaset Extra
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Cielo" tvg-logo="https://i.imgur.com/cPluF03.png" tvg-id="CieloTV.it" group-title="Italy",Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
