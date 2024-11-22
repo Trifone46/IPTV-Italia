@@ -32,7 +32,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="DIRETTA G F 1" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://easysite.png" group-title="Italy",DIRETTA G F 1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Rete 4 Ⓖ" tvg-logo="https://i.imgur.com/GWx2Fkl.png" tvg-id="Rete4.it" group-title="Italy",Rete 4
-https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Top Crime   Ⓖ" tvg-logo="https://i.imgur.com/RFIwv9O.png" tvg-id="TopCrime.it" group-title="Italy",Top Crime
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Focus Ⓖ" tvg-logo="https://i.imgur.com/M4smqpF.png" tvg-id="Focus.it" group-title="Italy",Focus
