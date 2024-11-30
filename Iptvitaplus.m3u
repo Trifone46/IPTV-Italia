@@ -55,6 +55,12 @@ https://raitre3-live.akamaized.net/hls/live/2018002/raitre3/raitre3/playlist.m3u
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Rai 4 HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4-lbz08s5luj9v.png" group-title="IT: XXXX RAI", Rai 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla
 https://raiquattro3-live.akamaized.net/hls/live/2018003/raiquattro3/raiquattro3/playlist.m3u8
+#EXTINF:-1 tvg-id="canaletv" tvg-name="Rai Premium HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeQpaJMbXhV9xUDf6Rp7_TPbaBXgoykVOa1Cq8ZbF64w&s.png" group-title="IT: XXXX RAI", Rai Premium HD
+#EXTVLCOPT:http-user-agent=Mozilla
+https://raipremium3-live.akamaized.net/hls/live/2018013/raipremium3/raipremium3/playlist.m3u8
+#EXTINF:-1 tvg-id="canaletv" tvg-name="Rai Movie HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ImpZ68xiFcr6-3q77y00MVNnpyc04ZpCbHzl8LJ06A&s.png" group-title="IT: XXXX RAI", Rai Movie HD
+#EXTVLCOPT:http-user-agent=Mozilla
+https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playlist.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Kiss Kiss Italia" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfPW1wD0sorKRAM6rkJLRVPf8pG3hElUKfJ4BuAwAlAw&s.png" group-title="IT: KISS KISS ITALIA", Kiss Kiss Italia
 https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Kiss Kiss Italia" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfPW1wD0sorKRAM6rkJLRVPf8pG3hElUKfJ4BuAwAlAw&s.png" group-title="IT: RADIO", Kiss Kiss Italia
