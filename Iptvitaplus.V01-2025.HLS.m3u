@@ -1,33 +1,48 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canale 5" tvg-id="Canale5.it" tvg-chno="5" channel-number="5" group-title="Mediaset", Canale 5
 https://live02-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla
 #EXTINF:-1 tvg-name="Italia 1" tvg-id="Italia1.it" tvg-chno="6" channel-number="6" group-title="Mediaset", Italia 1
+#EXTVLCOPT:http-user-agent=Mozilla
 https://live02-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Cine 34" tvg-id="cine34.it" tvg-logo="" tvg-chno="34", Cine 34
+#EXTVLCOPT:http-user-agent=Mozilla
 https://live02-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Mediaset Extra" tvg-id="MediasetExtra.it" tvg-chno="55", Mediaset Extra
+#EXTVLCOPT:http-user-agent=Mozilla
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="LA 5" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://www.justnetwork.it/wp-content/uploads/2022/11/la5.png" group-title=", La 5
+#EXTVLCOPT:http-user-agent=Mozilla
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Mediaset 20" tvg-id="20Mediaset.it" tvg-chno="20" channel-number="20", Mediaset 20
+#EXTVLCOPT:http-user-agent=Mozilla
 https://live02-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Focus" tvg-id="Focus.it" tvg-logo="" tvg-chno="35", Focus
+#EXTVLCOPT:http-user-agent=Mozilla
 https://live02-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Rete 4" tvg-id="Rete4.it" tvg-chno="4" channel-number="4" group-title="Mediaset", Rete 4
+#EXTVLCOPT:http-user-agent=Mozilla
 https://live02-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Top Crime" tvg-id="TopCrime.it" tvg-chno="39", Top Crime
+#EXTVLCOPT:http-user-agent=Mozilla
 https://live02-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Italia 2" tvg-id="Italia2.it" tvg-logo="" tvg-chno="49", Italia 2
+#EXTVLCOPT:http-user-agent=Mozilla
 https://live02-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Iris" tvg-id="iris.it" tvg-logo="" tvg-chno="22" channel-number="22", Iris
+#EXTVLCOPT:http-user-agent=Mozilla
 https://live02-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="TwentySeven" tvg-id="Twentyseven.it" tvg-logo="" tvg-chno="27", TwentySeven
+#EXTVLCOPT:http-user-agent=Mozilla
 https://live02-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="GF regia 1", DIRETTA G F Regia 1
+#EXTVLCOPT:http-user-agent=Mozilla
 https://live02-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="GF un'ora fa", DIRETTA G F 1 ORA
+#EXTVLCOPT:http-user-agent=Mozilla
 https://live02-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="GF regia 2", DIRETTA G F Regina Due
+#EXTVLCOPT:http-user-agent=Mozilla
 https://live02-col.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="T-V''8" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://www.justnetwork.it/wp-content/uploads/2022/11/tv8.png" group-title="T-V''8 DIRETTA", Tv8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
@@ -40,6 +55,7 @@ https://raitre3-live.akamaized.net/hls/live/2018002/raitre3/raitre3/playlist.m3u
 #EXTINF:-1 tvg-name="Rai 4" tvg-id="rai4.it" tvg-chno="21" channel-number="21", Rai 4
 https://raiquattro3-live.akamaized.net/hls/live/2018003/raiquattro3/raiquattro3/playlist.m3u8
 #EXTINF:-1 tvg-name="Rai Sport" tvg-id="raisport" tvg-logo="" tvg-chno="58", Rai Sport
+#EXTVLCOPT:http-user-agent=Mozilla
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16
 #EXTINF:-1 tvg-name="Rai 5" tvg-id="rai5.it" tvg-logo="" tvg-chno="23" channel-number="23", Rai 5
 https://raicinque3-live.akamaized.net/hls/live/2018007/raicinque3/raicinque3/playlist.m3u8
@@ -48,12 +64,16 @@ https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playli
 #EXTINF:-1 tvg-name="Rai Premium" tvg-id="raipremium.it" tvg-logo="" tvg-chno="25", Rai Premium
 https://raipremium3-live.akamaized.net/hls/live/2018013/raipremium3/raipremium3/playlist.m3u8
 #EXTINF:-1 tvg-name="Rai Storia" tvg-id="RaiStoria.it" tvg-logo="" tvg-chno="54", Rai Storia
+#EXTVLCOPT:http-user-agent=Mozilla
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=16
 #EXTINF:-1 tvg-name="Rai Scuola" tvg-id="RaiScuola.it" tvg-logo="" tvg-chno="57", Rai Scuola
+#EXTVLCOPT:http-user-agent=Mozilla
 http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16
 #EXTINF:-1 tvg-name="Rai Yoyo" tvg-id="RaiYoyo.it" tvg-chno="43", Rai YoYo
+#EXTVLCOPT:http-user-agent=Mozilla
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=16
 #EXTINF:-1 tvg-name="Rai News 24" tvg-id="rai news 24" tvg-logo="" tvg-chno="48", RaiNews 24
+#EXTVLCOPT:http-user-agent=Mozilla
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
 #EXTINF:-1 tvg-name="Rai Gulp" tvg-id="RaiGulp.it" tvg-chno="42", Rai Gulp
 https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.m3u8
@@ -84,10 +104,13 @@ https://d2pxu244r32qi9.cloudfront.net/playlist/amg16146-warnerbrosdiscoveryitali
 #EXTINF:-1 tvg-name="RTL 102.5 TV" tvg-id="rtl102.5tv" tvg-chno="36", RTL 102.5 TV
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTINF:-1 tvg-name="Boing" tvg-id="Boing.it" tvg-chno="40", Boing
+#EXTVLCOPT:http-user-agent=Mozilla
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="TGCOM 24" tvg-id="TGCom24.it" tvg-chno="51", TGCOM 24
+#EXTVLCOPT:http-user-agent=Mozilla
 https://live02-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Cartoonito" tvg-id="Cartoonito.it" tvg-chno="46", Cartoonito
+#EXTVLCOPT:http-user-agent=Mozilla
 https://live02-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="La7d" tvg-logo="https://i.imgur.com/AOL9nMw.png" tvg-id="La7d.it" group-title=", La7 d
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
@@ -108,10 +131,12 @@ https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/silive24/playlist.m3u8
 #EXTINF:-1 tvg-name="Super Tennis" tvg-id="SuperTennis.it" tvg-logo="" tvg-chno="64", Super Tennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
 #EXTINF:-1 tvg-name="Radio 105 TV" tvg-chno="66", Radio 105 TV
+#EXTVLCOPT:http-user-agent=Mozilla
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="M2O TV" tvg-id="m2otv" tvg-chno="68", M2O TV
 https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-name="R101 TV" tvg-id="R101TV" tvg-chno="67", R101 TV
+#EXTVLCOPT:http-user-agent=Mozilla
 https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Deejay TV" tvg-id="DeejayTV.it" tvg-chno="69", Deejay TV
 https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
