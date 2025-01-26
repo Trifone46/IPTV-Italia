@@ -77,5 +77,5 @@ https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/
 https://server.bellaradio.it:1443/live/bellaradiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Radio Italia" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://i.imgur.com/4VCEJuJ.png" group-title="IT: MUSICA", Radio Italia
 https://radioitaliatv.akamaized.net/hls/live/2093117-b/RadioitaliaTV/stream03/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="canaletv" tvg-name="Cielo" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://i.imgur.com/cPluF03.png" group-title="' ' : CIELO DIRETTA", CIELO
+#EXTINF:-1 tvg-id="canaletv" tvg-name="Cielo" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://i.imgur.com/cPluF03.png" group-title="'': CIELO DIRETTA", CIELO
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
