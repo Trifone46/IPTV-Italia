@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelld ="2219" group-title="IT: MEDIASET", Canale 5
-#EXTVLCOPT:http-user-agent=Mozilla
-https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Canale 5" tvg-id="Canale5.it" tvg-chno="5" channel-number="5" group-title="Mediaset", Canale 5
 #EXTVLCOPT:http-user-agent=Mozilla
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
