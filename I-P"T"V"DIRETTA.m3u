@@ -3,8 +3,8 @@
 #EXTVLCOPT:http-user-agent=Mozilla
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Canale 5" tvg-id="Canale5.it" tvg-chno="5" channel-number="5" group-title="Mediaset", Canale 5
-https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Italia 1" tvg-id="Italia1.it" tvg-chno="6" channel-number="6" group-title="Mediaset", Italia 1
 #EXTVLCOPT:http-user-agent=Mozilla
 https://live02-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
