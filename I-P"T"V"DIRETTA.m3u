@@ -82,7 +82,7 @@ https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Giallo" tvg-id="Giallo.it" tvg-chno="38", Giallo
 https://d2pxu244r32qi9.cloudfront.net/playlist/amg16146-warnerbrosdiscoveryitalia-giallo-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-name="Donna tv" tvg-id="DonnaTV.it", Donna tv
-https://donnatv.grupposciscione.knoxstreaming.com/live/1080p/livestream_def.m3u8
+https://5a1178b42cc03.streamlock.net/donnatv/donnatv/chunklist_w1106847327.m3u8
 #EXTINF:-1 tvg-name="NOVE" tvg-id="Nove.it" tvg-chno="9" channel-number="9", NOVE
 https://d2pxu244r32qi9.cloudfront.net/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-name="Real Time" tvg-id="RealTime.it" tvg-chno="31", Real Time
@@ -147,7 +147,7 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunk
 #EXTINF:-1 tvg-name="Rai Radio2" tvg-id="" tvg-chno="202", Rai Radio2
 https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
 #EXTINF:-1 tvg-name="ALMA TV" tvg-id="AlmaTV.it", ALMA TV
-https://almatv.grupposciscione.knoxstreaming.com/live/1080p/livestream_def.m3u8
+https://5a1178b42cc03.streamlock.net/alma/alma/chunklist_w95333518.m3u8
 #EXTINF:-1 tvg-chno="61", Solocalcio
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Iunior TV" tvg-id="iuniortv", Iunior TV
@@ -169,7 +169,7 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnt
 #EXTINF:-1 tvg-name="Radio Ibiza TV" tvg-id="ibizatv", Radio Ibiza TV
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w1961450240.m3u8
 #EXTINF:-1 tvg-name="Travel TV" tvg-id="TravelTV.it", Travel TV
-https://traveltv.grupposciscione.knoxstreaming.com/live/1080p/livestream_def.m3u8
+https://5a1178b42cc03.streamlock.net/travel/travel/chunklist_w2129560705.m3u8
 #EXTINF:-1 tvg-name="Bella Radio TV", Bella Radio TV
 https://server.bellaradio.it:1443/live/bellaradiotv/playlist.m3u8
 #EXTINF:-1, RTL 102.5 BEST
