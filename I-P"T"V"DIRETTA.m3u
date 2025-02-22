@@ -198,5 +198,5 @@ https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 #EXTINF:-1, RTL 102.5 NAPULÈ
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
-#EXTINF:-1 tvgid="canaletv" tvg-name="Cielo" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://www.justnetwork.it/wp-content/uploads/2022/11/cielo-1.png" group-title="' ' : CIELO DIRETTA", CIELO
+EXTINF:-1 tvgid="canaletv" tvg-name="Cielo" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://www.justnetwork.it/wp-content/uploads/2022/11/cielo-1.png" group-title="' ' : CIELO DIRETTA", CIELO
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
