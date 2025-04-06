@@ -143,7 +143,7 @@ https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sM
 #EXTINF:-1 tvg-name="Radio Italia TV" tvg-id="radioitaliatv" tvg-chno="70", Radio Italia TV
 https://radioitaliatv.akamaized.net/hls/live/2093117-b/RadioitaliaTV/stream03/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="San Marino RTV" tvg-id="SMtv.it", San Marino RTV
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b2192000_slita.m3u8
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1192000_slita.m3u8
 #EXTINF:-1 tvg-name="Rai Radio2" tvg-id="" tvg-chno="202", Rai Radio2
 https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
 #EXTINF:-1 tvg-name="ALMA TV" tvg-id="AlmaTV.it", ALMA TV
