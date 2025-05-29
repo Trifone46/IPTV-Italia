@@ -35,9 +35,6 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Rai5.it" tvg-chno="23" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai5.png" group-title="Rai", Rai 5
 #EXTVLCOPT:http-user-agent=Rainet/4.0.8
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=16
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-italia-usa.png" group-title=",Rai Italia
-#EXTVLCOPT:http-user-agent=Rainet/4.0.8
-https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-chno="24" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raimovie.png" group-title="Rai", Rai Movie
 #EXTVLCOPT:http-user-agent=Rainet/4.0.8
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=16
