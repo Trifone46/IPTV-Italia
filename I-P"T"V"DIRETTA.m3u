@@ -129,7 +129,7 @@ https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-name="Primavera TV" tvg-chno="62", Primavera TV
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/silive24/playlist.m3u8
 #EXTINF:-1 tvg-name="Super Tennis" tvg-id="SuperTennis.it" tvg-logo="" tvg-chno="64", Super Tennis
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 tvg-name="Radio 105 TV" tvg-chno="66", Radio 105 TV
 #EXTVLCOPT:http-user-agent=Mozilla
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
