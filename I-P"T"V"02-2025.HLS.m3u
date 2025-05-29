@@ -35,6 +35,9 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Rai5.it" tvg-chno="23" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai5.png" group-title="Rai", Rai 5
 #EXTVLCOPT:http-user-agent=Rainet/4.0.8
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=16
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-italia-usa.png" group-title=",Rai Italia
+#EXTVLCOPT:http-user-agent=Rainet/4.0.8
+https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-chno="24" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raimovie.png" group-title="Rai", Rai Movie
 #EXTVLCOPT:http-user-agent=Rainet/4.0.8
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=16
@@ -126,7 +129,7 @@ https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 #EXTINF:-1 tvg-id="DonnaTV.it" tvg-chno="62" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/donnatv.png" group-title="Altro", Donna TV
 https://5a1178b42cc03.streamlock.net/donnatv/donnatv/chunklist_w1106847327.m3u8
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-chno="64" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/supertennis.png" group-title="Altro", Supertennis
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 tvg-id="AlmaTv.it" tvg-chno="65" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/almatv.png" group-title="Altro", ALMA TV
 https://5a1178b42cc03.streamlock.net/alma/alma/chunklist_w95333518.m3u8
 #EXTINF:-1 tvg-chno="61", Solocalcio
