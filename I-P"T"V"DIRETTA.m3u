@@ -74,7 +74,7 @@ http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=16
 #EXTINF:-1 tvg-name="Rai News 24" tvg-id="rai news 24" tvg-logo="" tvg-chno="48", RaiNews 24
 #EXTVLCOPT:http-user-agent=Mozilla
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
+https://streamcdnb2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1 tvg-name="Rai Gulp" tvg-id="RaiGulp.it" tvg-chno="42", Rai Gulp
 https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Kiss Kiss Italia" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://www.justnetwork.it/wp-content/uploads/2023/05/kisskissitalia.png" group-title="KISS KISS ITALIA", Kiss Kiss Italia
