@@ -65,7 +65,7 @@ https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playli
 https://raipremium3-live.akamaized.net/hls/live/2018013/raipremium3/raipremium3/playlist.m3u8
 #EXTINF:-1 tvg-name="Rai Storia" tvg-id="RaiStoria.it" tvg-logo="" tvg-chno="54", Rai Storia
 #EXTVLCOPT:http-user-agent=Mozilla
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=16
+https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-HLS8/raistoria.m3u8
 #EXTINF:-1 tvg-name="Rai Scuola" tvg-id="RaiScuola.it" tvg-logo="" tvg-chno="57", Rai Scuola
 #EXTVLCOPT:http-user-agent=Mozilla
 http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16
