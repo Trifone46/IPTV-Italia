@@ -66,13 +66,13 @@ http://server.bellaradio.it:8090/bellaradio.ogg
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Radio Italia" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://i.imgur.com/4VCEJuJ.png" group-title="IT: RADIO", Radio Italia
 https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="NOVE" tvg-country="IT" tvg-language="Italiano" #EXTINF:-1 tvg-id="canaletv" tvg-name="NOVE" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/nove.png" group-title="IT: DISCOVERY", NOVE
-https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
+https://jmp2.uk/stvp-IT9000060Q
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Giallo" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/giallo.png" group-title="IT: DISCOVERY", Giallo
-https://amg16146-wbdi-amg16146c5-samsung-it-1838.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-giallo-samsungit/playlist.m3u8
+https://jmp2.uk/stvp-IT9000081B
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Real Time" tvg-country="IT" tvg-language="Italiano" tvg-logo=''https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/realtime.png" group-title="IT: DISCOVERY", Real Time
-https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8
+https://jmp2.uk/stvp-IT900007I0
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Dmax" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax-hd.png" group-title="IT: DISCOVERY", Dmax
-https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
+https://jmp2.uk/stvp-IT9000113W
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Bella ""-T.V" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFNydnr9yvP7JSPJQLTYi-t03FzkFZpompwg&s.png" group-title="IT: MUSICA", Bella ''''-T.V
 https://server.bellaradio.it:1443/live/bellaradiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Radio Italia" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://i.imgur.com/4VCEJuJ.png" group-title="IT: MUSICA", Radio Italia
