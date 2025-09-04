@@ -122,7 +122,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16
 #EXTINF:-1 tvg-id="MotorTrendTV.it" tvg-chno="59" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/motortrend.png" group-title="Discovery", Motor Trend
 https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-chno="60" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/sportitalia.png" group-title="Altro", Sportitalia
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
+https://origin.streamup.eu/sportitaliain/sihd/chunks.m3u8
 #EXTINF:-1 tvg-id="DonnaTV.it" tvg-chno="62" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/donnatv.png" group-title="Altro", Donna TV
 https://5a1178b42cc03.streamlock.net/donnatv/donnatv/chunklist_w1106847327.m3u8
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-chno="64" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/supertennis.png" group-title="Altro", Supertennis
@@ -130,7 +130,7 @@ https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c
 #EXTINF:-1 tvg-id="AlmaTv.it" tvg-chno="65" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/almatv.png" group-title="Altro", ALMA TV
 https://5a1178b42cc03.streamlock.net/alma/alma/chunklist_w95333518.m3u8
 #EXTINF:-1 tvg-chno="61", Solocalcio
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
+https://origin.streamup.eu/sportitaliain/sihd/chunks.m3u8
 #EXTINF:-1 tvg-id="Radio105TV.it" tvg-chno="66" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radio105tv.png" group-title="Radio", Radio 105 TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
@@ -171,4 +171,4 @@ https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="RTVSanMarino.it" tvg-chno="831" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtvsanmarino.png" group-title="Radio", RTV San Marino
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1192000_slita.m3u8
 #EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-chno="899" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiotvseriea.png" group-title="Radio", Radio TV Serie A con RDS
-https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
+https://tr.legaseriea-live1.cdn.netrw.it/seriea/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
