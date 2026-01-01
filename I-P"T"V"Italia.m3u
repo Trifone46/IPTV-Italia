@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia.png" group-title="Canali Sport Italiani ",SportItalia HD Plus
+https://edge-001.streamup.eu/sportitalia/sihd_abr2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-primavera-tv.jpg" group-title="Canali Sport Italiani ",SportItalia Primavera Tv 
+https://edge-001.streamup.eu/sportitalia/silive24_abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-solocalcio.jpg" group-title="Canali Sport Italiani ",SportItalia Solocalcio
+https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Rai 1 HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" group-title="Italy", Rai 1
 https://raiuno3-live.akamaized.net/hls/live/2017910/raiuno3/raiuno3/playlist.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Rai 2 HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-2-bobi5do2jjqa.png" group-title="Italy", Rai 2
