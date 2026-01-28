@@ -62,8 +62,8 @@ https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="canaletv" tvg-name="1 ORA FA G F" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://easysite.one.png" group-title="Italy", DIRETTA 1 ORA FA
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia.png" group-title="Canali Sport Italiani ",SportItalia HD Plus
-https://edge-001.streamup.eu/sportitalia/sihd_abr2/playlist.m3u8
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-primavera-tv.jpg" group-title="Canali Sport Italiani ",SportItalia Primavera Tv 
-https://edge-001.streamup.eu/sportitalia/silive24_abr/playlist.m3u8
+https://origin-001.streamup.eu/sportitalia/silive24_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-solocalcio.jpg" group-title="Canali Sport Italiani ",SportItalia Solocalcio
-https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
+https://edge-004.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
