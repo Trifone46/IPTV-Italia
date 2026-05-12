@@ -58,7 +58,7 @@ https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 tvg-name="RTL 102.5" tvg-logo="https://i.imgur.com/KdissvS.png" tvg-id="RTL1025TV.it" group-title="Italy", RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Dmax" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax-hd.png" group-title="Italy", Dmax
-https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
+https://zappr.stream/clearkey/?url=https%3A%2F%2Fd24suwc4j2wvyy.cloudfront.net%2Fv1%2Fmaster%2F3722c60a815c199d9c0ef36c5b73da68a62b09d1%2Fcc-09ap0j3u2xm1u%2Fout%2Fv1%2F1ef9705b7c534751889b6e01bb032f80%2FHLS_CMAF_DRM%2Findex.m3u8&keys=%257B%2522b50bfbff8fa14bda96d92025417d784f%2522%3A%25228f183160378160a4494c7d3c35db96ef%2522%2C%2522eeb9d5f050034218a56d94407ced2f2d%2522%3A%25223d32eda3dd788800a3e760b2e595110a%2522%257D
 #EXTINF:-1 tvg-id="canaletv" tvg-name="1 ORA FA G F" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://easysite.one.png" group-title="Italy", DIRETTA 1 ORA FA
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia.png" group-title="Canali Sport Italiani ",SportItalia HD Plus
