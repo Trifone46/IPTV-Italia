@@ -66,7 +66,7 @@ http://server.bellaradio.it:8090/bellaradio.ogg
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Radio Italia" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://i.imgur.com/4VCEJuJ.png" group-title="IT: RADIO", Radio Italia
 https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="NOVE" tvg-country="IT" tvg-language="Italiano" #EXTINF:-1 tvg-id="canaletv" tvg-name="NOVE" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/nove.png" group-title="IT: DISCOVERY", NOVE
-https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
+https://d3pkcyie9gav9y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jrrq3jtymmzoc/out/v1/fdb9d129ff7f4a7bbc8fe0902122e48f/HLS_CMAF_DRM/index.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Giallo" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/giallo.png" group-title="IT: DISCOVERY", Giallo
 https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Real Time" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/realtime.png" group-title="IT: DISCOVERY", Real Time
