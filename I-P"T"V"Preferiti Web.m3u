@@ -46,7 +46,7 @@ https://raiuno3-live.akamaized.net/hls/live/2017910/raiuno3/raiuno3/playlist.m3u
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="T-V''8" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuPbqiR20numHws2BIJkT3j5EZcCByk8ccQ4OfoN1WZg&s.png" group-title="T-V''8 DIRETTA", Tv8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
-#EXTINF:-1 tvg-id="canaletv" tvg-name="Rai 2 HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://odmsto.com/uploads/tv_image/sm/rai-2-bobi5do2jjqa.png" group-title=":  X:X:X:X RAI", Rai 2 HD
+#EXTINF:-1 tvg-id="canaletv" tvg-name="Rai 2 HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-2-bobi5do2jjqa.png" group-title=":  X:X:X:X RAI", Rai 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla
 https://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u8
 #EXTINF:-1 tvg-id="canaletv" tvg-name="Rai TRE HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-3-kwvj7ve82k1u.png" group-title=":  X:X:X:X RAI", Rai 3 HD
